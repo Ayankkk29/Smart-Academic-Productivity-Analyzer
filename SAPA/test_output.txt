@@ -1,0 +1,106 @@
+Loading data...
+Data loaded successfully.
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: Enter Title: Enter Subject: Enter Priority (1-High, 2-Medium, 3-Low): Task added successfully.
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: Enter Title: Enter Subject: Enter Priority (1-High, 2-Medium, 3-Low): Task added successfully.
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: Enter Task ID to start session: Started session for task: Math Homework
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: Enter Task ID to stop session: Stopped session for task: Math Homework. Duration added.
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: Enter Task ID to complete: Task marked as completed.
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: --- Productivity Analytics ---
+Productivity Score: 50.00%
+Most studied subject: Math
+Least studied subject: Math
+Longest duration task: N/A
+Average study time per task: 0.00 mins
+Time-of-day productivity analysis (based on session start times):
+ - Evening (17-21): 0 sessions
+ - Night (21-5): 0 sessions
+ - Morning (5-12): 0 sessions
+ - Afternoon (12-17): 0 sessions
+
+Insights:
+
+--- Smart Academic Productivity Analyzer (SAPA) ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Mark Task Completed
+6. Start Study Session
+7. Stop Study Session
+8. View Analytics
+9. Sort Tasks
+10. Exit
+Choose an option: Saving data...
+Data saved. Exiting... Goodbye!
